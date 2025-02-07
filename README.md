@@ -42,11 +42,11 @@ map range variables into integers (e.g 'Age' column)
 
 ### Data Visualisation
 
-visualize individul column
-Age vs Purchased
-Occupation vs Purchased
-Product_category_1 vs Purchased
-Product_category_2 vs Purchased
-Product_category_3 vs Purchased
-City category pie chart
-check for more possible plots
+1. visualize individul column
+2. Age vs Purchased
+3. Occupation vs Purchased
+4. Product_category_1 vs Purchased
+5. Product_category_2 vs Purchased
+6. Product_category_3 vs Purchased
+7. City category pie chart
+8. check for more possible plots
